@@ -1,0 +1,3 @@
+tornado==4.4.1
+psycopg2
+iron_mq
