@@ -1,8 +1,8 @@
 # A simple data pipeline service
-Author: Eric Yang (jiwen624@gmail.com) (iron_mq.py is a library provided by Heroku, not me)
+Author: Eric Yang (jiweni__removeme__624@gmail.com) (iron_mq.py is a library provided by Heroku, not me)
 
 ## How it works
-The service is running on Heroku with URL: `https://pure-badlands-49030.herokuapp.com/`.
+The service is running on Heroku with URL (I masked the URL, contact me if you'd like to give it a try): `https://pure--badl__removeme__ands-49030.hero__removeme__kuapp.com/`.
 
 As it's running on a free cloud account it may not be fast, but it's functional.
 
